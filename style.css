@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  padding-top: 50px;
+}
+
+select {
+  position: absolute;
+  right: 20px;
+  top: 20px
+}
+
+h1 {
+  font-size: 40px;
+}
+
+button {
+  font-size: 72px;
+  padding: 30px;
+}
+
+#restart {
+  font-size: 30px;
+}
